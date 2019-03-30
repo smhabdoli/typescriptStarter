@@ -14,6 +14,7 @@
 2. Initialize git
 
     ```bash
+    cd proj
     git init
     git config user.name "Your Name"
     git config user.email "Your Email"
@@ -74,7 +75,6 @@
 3. Initialize project:
 
     ```bash
-    cd src
     npm init
     ```
 
